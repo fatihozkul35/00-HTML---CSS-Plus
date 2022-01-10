@@ -1,0 +1,39 @@
+body {
+}
+header {
+  background-color: rgb(89, 188, 212);
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+nav {
+  background-color: rgb(136, 226, 148);
+  padding: 20px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  text-decoration: none;
+}
+h2 {
+  text-align: center;
+}
+article p {
+  text-align: center;
+}
+img {
+  height: 50vh;
+  width: auto;
+}
+figcaption {
+  text-align: center;
+}
+footer {
+  background-color: blue;
+  color: red;
+  padding: 20px;
+  text-align: center;
+}
